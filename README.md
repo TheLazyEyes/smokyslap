@@ -1,2 +1,3 @@
-# smokyslap
-Slap your smoky
+# Slap Smoky
+
+open in your browser
