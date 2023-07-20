@@ -1,4 +1,4 @@
-<div align="center"> <img width="200" src="/base/header.jpg"> 
+<div align="center"> <img width="full" src="/base/header.jpg"> 
 </div>
 
 <p align="center">
